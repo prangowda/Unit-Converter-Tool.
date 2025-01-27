@@ -1,6 +1,6 @@
 # Unit-Converter-Tool.
 
-This tool allows users to convert between different units such as length, weight, temperature, and time. It’s a CLI-based project that can be enhanced with a GUI later if needed.
+This tool allows users to convert between different units such as length, weight, temperature, and time.
 
 Features
 1.Convert units for length (meters, kilometers, miles, inches, feet).
